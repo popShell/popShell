@@ -1,4 +1,4 @@
-# Hey, I'm popShell
+# Hey, I'm Ian!
 
 🛠 Builder •  Homelabber •  Security Enthusiast  
 I break, fix, and rebuild systems to understand them.
