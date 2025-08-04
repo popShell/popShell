@@ -26,12 +26,12 @@ Currently rebuilding this GitHub to reflect what I *actually* do: document, test
   Ansible/LXC templates to spin up vulnerable Linux boxes  
 - **Infra Automation Scripts**  
   Bash, Python, and PowerShell tooling for reproducible lab infra and log setups
-- **HexShell**
-  Terminal Focused notetaking application to break my bad habit of throwing away half used notebooks.
+- **HexShell**  
+  Terminal-focused note-taking application to break my bad habit of throwing away half-used notebooks.
 
 ---
 
-## 🔧 Tech Stack
+## Tech Stack
 
 **Infra**: Proxmox • OpenWRT • Cisco IOS • Ansible • Docker  
 **Scripting**: Bash • Python • PowerShell  
@@ -64,6 +64,6 @@ Expect more lab configs, security scripts, and writeups in public repos.
 
 ---
 
-> To keep me accountable 
+> To keep me accountable:
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=popShell&show_icons=true&theme=dark&hide_title=true&hide_border=true)
